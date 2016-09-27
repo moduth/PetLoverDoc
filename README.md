@@ -4,4 +4,4 @@ Documents for Pet Lover.
 
 # Api Documents
 
-See https://github.com/moduth/PetLoverDoc/wiki
+See [Wiki](https://github.com/moduth/PetLoverDoc/wiki)
